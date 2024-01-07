@@ -25,6 +25,8 @@ Using controls primeng 15.4.1 version
 # ChangeProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9
+Visual studio 2022 , framework 7.0
+The application is built in a responsive manner using Bootstrap
 
 ## Development server
 
