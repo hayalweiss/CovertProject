@@ -45,8 +45,10 @@ a.text-dark:active {
 }
 
 li.nav-item {
+ /* 
   border: 1px solid lightsteelblue;
   border-radius: 0.25rem;
+  */
 }
 /*
 a.text-dark:not(:hover) {
